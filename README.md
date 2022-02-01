@@ -1,9 +1,14 @@
-### Hello/Sveiks Im yxupy 
-
-## Welcome to my GitHub Profile..!!
-
-
-## https://yxupy.github.io/
-
-
-![alt text](https://cdn.discordapp.com/attachments/926748345597329461/937859039239475270/pngkit_haunter-png_2294901.png)
+<p align="center">
+    7teen
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=17teen&color=grey">
+<img src="https://komarev.com/ghpvc/?username=yxupycolor=grey">
+</p>
+    <p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/358310460187082763.png"/>
+</p>
+<p align="center">
+Currently learning JavaScript
+<p align="center">
+    <a href="https://discord.gg/4nSYqZ8KAA">Discord Server</a>
+Currently sleeping....
