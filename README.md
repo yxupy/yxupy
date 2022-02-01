@@ -2,7 +2,7 @@
     yxupy
     
  <p align="center">  
-<img src="https://tenor.com/view/haunted-pokemon-applause-pocket-monsters-clap-gif-7346646">
+<img src="https://cdn.discordapp.com/attachments/926748345597329461/937861803466190868/haunted-pokemon.gif">
 </p>
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=yxupy&color=grey">
