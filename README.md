@@ -1,14 +1,10 @@
 <p align="center">
-    7teen
+    yxupy
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=17teen&color=grey">
 <img src="https://komarev.com/ghpvc/?username=yxupycolor=grey">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/358310460187082763.png"/>
+  <img src="https://discord.c99.nl/widget/theme-4/868457091554226219.png"/>
 </p>
 <p align="center">
-Currently learning JavaScript
-<p align="center">
-    <a href="https://discord.gg/4nSYqZ8KAA">Discord Server</a>
-Currently sleeping....
+Currently sleeping..
